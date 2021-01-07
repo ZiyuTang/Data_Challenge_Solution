@@ -10,7 +10,6 @@ Project Goal:
 - Predict conversion rate
 - Come up with recommendations for the product team and the marketing team to improve conversion rate
 
-Solution:
-[Solution for the conversion rate](https://github.com/ZiyuTang/Data_Challenge_Solution/tree/main/Conversion%20Rate "Conversion Rate Solution")
+[Conversion Rate Solution](https://github.com/ZiyuTang/Data_Challenge_Solution/tree/main/Conversion%20Rate "Conversion Rate Solution")
 
 
