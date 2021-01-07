@@ -1,5 +1,5 @@
-# Data Challenge Solution
-### The solutions for data challenge by Ziyu Tang 
+#  Solutions For Data Science Take Home Challenges
+### Ziyu Tang 
 
 ## Table of Contents
 
