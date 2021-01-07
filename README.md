@@ -1,4 +1,4 @@
-#  Solutions For Data Science Take Home Challenges
+#  Solutions For Data Science Take-Home Challenges
 ### Ziyu Tang 
 
 ## Table of Contents
