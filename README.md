@@ -21,6 +21,8 @@ Project Goal:
 - Explain why that might be happening. Are the localized translations really worse?
 - If you identified what was wrong, design an algorithm that would return FALSE if the same problem is happening in the future and TRUE if everything is good and the results can be trusted.
 
+[Spanish Translation A/B Test Solution](https://github.com/ZiyuTang/Data_Challenge_Solution/tree/main/Spanish%20Translation%20A:B%20Test "Spanish Translation A/B Test Solution")
+
 ## <a name="employee_retention"></a>Q3 Employee Retention
 Project Goal:
 - Predict employee retention 
